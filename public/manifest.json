@@ -1,0 +1,27 @@
+{
+  "name": "CoverLetter AI",
+  "short_name": "CoverLetter",
+  "description": "AI-powered cover letters tailored to any job.",
+  "start_url": "/coverletter-ai/",
+  "scope": "/coverletter-ai/",
+  "display": "standalone",
+  "background_color": "#080810",
+  "theme_color": "#6366f1",
+  "categories": [
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/coverletter-ai/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/coverletter-ai/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
